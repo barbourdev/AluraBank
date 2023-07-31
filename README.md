@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=3066BE&center=true&width=435&lines=Requisições+em+JS">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=3066BE&center=true&width=435&lines=Validações+em+JS">
 </div>
 <br>
 <p align="center">Projeto realizado em HTML, CSS e JavaScript, com o intuito de fazer validações em um formulário de cadastro. Sistema de tirar uma foto facial com a camêra do dispositivo e guardar todos os dados no localStorage, para uso posteriormente.</p>
