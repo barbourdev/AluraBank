@@ -24,11 +24,6 @@
 </div>
 <br>
 
-<h4>Screenshots<h4>
-
-![Screenshot da tela inicial do AluraPlay](https://i.imgur.com/jDaxPKT.png)
-![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
-
 ##
 
 <div align="center">
