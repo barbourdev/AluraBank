@@ -3,10 +3,8 @@ export default function maiorDeIdade(campo) {
     
     validarIdade(dataNascimento);
 
-    if (validarIdade(dataNascimento)) {
-        console.log('pessoa maior de idade');
-    } else {
-        console.log('pessoa menor de idade');
+    if (!validarIdade(dataNascimento)) {
+        campo.setCustomValidity('O usuário não é maior de idade')
     }
 }
 
